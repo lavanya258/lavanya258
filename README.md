@@ -111,16 +111,6 @@ Deep learning solution developed for identifying manipulated facial images for c
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lavanya258&theme=tokyonight&row=1&column=7" />
-
-</div>
-
----
-
 # 📚 Certifications
 
 🏅 Data Analytics Job Simulation
@@ -160,15 +150,4 @@ Deep learning solution developed for identifying manipulated facial images for c
 </div>
 
 ---
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lavanya258/lavanya258/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
+# Thanks for visiting my profile ..
