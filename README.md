@@ -81,7 +81,7 @@ Deep learning solution developed for identifying manipulated facial images for c
 # 📊 GitHub Analytics
 <p align="center">
   <a href="https://github.com/rowkav09/GitHub-profile-stats">
-    <img src="https://ghstats.dev/api/card?username=manasaavarmaa&theme=tokyonight&size=compact&compact_count=6" />
+    <img src="https://ghstats.dev/api/card?username=lavnya258&theme=tokyonight&size=compact&compact_count=6" />
   </a>
 </p>
 
