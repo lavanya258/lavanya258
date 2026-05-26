@@ -1,123 +1,122 @@
-<h1 align="center">Hi 👋, I'm Lavanya Pyla</h1>
+<div align="center">
 
-<h3 align="center">AI & Machine Learning Enthusiast | Python Developer | Software Engineer</h3>
+# Hi, I'm Lavanya Pyla 👋
 
----
+### AI & Machine Learning Engineer in Progress
 
-🎓 B.Tech CSE (AIML) Student at Malla Reddy University
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Python+Developer;Building+Real+World+AI+Solutions" />
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Software Development
-
-🚀 Building AI-powered applications using Python, Flask, TensorFlow, OpenCV, and SQL
-
-📍 Hyderabad, India
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-### Programming
-- Python
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
+🎓 AIML Undergraduate at Malla Reddy University
 
-### AI & Machine Learning
-- Deep Learning
-- Computer Vision
-- Classification Models
-- Linear Regression
+🧠 Passionate about solving real-world problems using Artificial Intelligence
 
-### Web Development
-- Flask
-- HTML
-- CSS
+💻 Strong foundation in Software Engineering, OOP, DSA and Problem Solving
 
-### Database
-- MySQL
+🔬 Interested in Computer Vision, Deep Learning and Intelligent Systems
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+🌱 Continuously learning and building impactful projects
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tech Stack
 
-### 🚆 Real-Time Railway Obstruction Detection
+<div align="center">
 
-Developed an AI-powered railway safety system capable of detecting humans, animals, and obstacles on railway tracks in real time.
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,html,css,git,github,vscode,tensorflow" />
 
-**Tech Stack**
-- Python
-- Flask
-- YOLO
-- SSD
-- Faster R-CNN
-- OpenCV
+</div>
+
+---
+
+## 🏗️ Featured Projects
+
+### 🚆 Railway Obstruction Detection System
+
+AI-powered railway safety solution capable of detecting:
+
+✅ Humans
+
+✅ Animals
+
+✅ Obstacles
+
+Built using:
+
+`YOLO` • `SSD` • `Faster R-CNN` • `OpenCV` • `Flask`
+
+---
 
 ### 🔍 Deepfake Image Detection
 
-Built a deep learning model to classify real and manipulated facial images for cybersecurity and digital forensics applications.
+Deep Learning model for identifying manipulated facial images.
 
-**Tech Stack**
-- Python
-- TensorFlow
-- Keras
-- NASNet
-- LSTM
+Features:
 
----
+✅ Image preprocessing
 
-## 📜 Certifications
+✅ Transfer Learning
 
-🏆 Data Analytics Job Simulation
+✅ NASNet Architecture
 
-🏆 NPTEL – Java Programming
+✅ LSTM-based Prediction
 
-🏆 IBM SkillsBuild – Data Analysis with Python
+Built using:
 
-🏆 Microsoft Learn – Cloud Computing and Data Technologies
+`TensorFlow` • `Keras` • `Python`
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning
-- Deep Learning Architectures
-- Generative AI
-- Software Engineering Best Practices
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Achievements
 
-LinkedIn: https://www.linkedin.com/in/lavanya-pyla-41abb430a/
+🏅 Data Analytics Job Simulation
 
-Email: lavanyapyla05@gmail.com## Hi there 👋
+🏅 NPTEL Java Programming
 
-<!--
-**lavanya258/lavanya258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏅 IBM Data Analysis with Python
 
-Here are some ideas to get you started:
+🏅 Microsoft Learn Cloud Computing & Data Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Current Focus
+
+🔹 Advanced Machine Learning
+
+🔹 Deep Learning Architectures
+
+🔹 Computer Vision Applications
+
+🔹 Building Production-Ready AI Systems
+
+---
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/lavanya-pyla-41abb430a/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lavanyapyla05@gmail.com ">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
