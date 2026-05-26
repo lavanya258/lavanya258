@@ -77,21 +77,13 @@ Deep learning solution developed for identifying manipulated facial images for c
 `Python` `TensorFlow` `Keras` `NASNet` `LSTM`
 
 ---
-
-# 📊 GitHub Analytics
 <p align="center">
   <a href="https://github.com/lavanya258/GitHub-profile-stats">
     <img src="https://ghstats.dev/api/card?username=lavnya258&theme=tokyonight&size=compact&compact_count=6" />
   </a>
 </p>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya258&layout=compact&theme=tokyonight" />
-
-</div>
-
-<br>
+# 📊 GitHub Analytics
 
 <div align="center">
 
