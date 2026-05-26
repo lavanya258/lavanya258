@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Lavanya Pyla
 
-### AI & Machine Learning Engineer in Progress 🚀
+### AI & Machine Learning Engineer 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Computer+Vision+Developer;Python+Developer;Building+Real-World+AI+Solutions;Always+Learning+and+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+Developer;Deep+Learning+Enthusiast;Building+Real-World+AI+Solutions;Always+Learning+and+Building" />
 
 <br>
 
@@ -143,17 +143,7 @@ Deep learning solution developed for identifying manipulated facial images for c
 
 📈 Continuously improving coding and problem-solving skills
 
----
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/lavanya258/lavanya258/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
@@ -171,8 +161,14 @@ Deep learning solution developed for identifying manipulated facial images for c
 
 ---
 
+---
+
+# 🐍 Contribution Snake
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://raw.githubusercontent.com/lavanya258/lavanya258/output/github-contribution-grid-snake.svg" />
 
 </div>
+
+---
