@@ -10,8 +10,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=lavanya258&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/lavanya258?label=Followers&style=for-the-badge" />
-
 </div>
 
 ---
@@ -52,7 +50,7 @@ print("Welcome to my GitHub Profile 🚀")
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,flask,mysql,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,flask,mysql,html,css,git,github,vscode,javascript" />
 
 </div>
 
@@ -81,10 +79,13 @@ Deep learning solution developed for identifying manipulated facial images for c
 ---
 
 # 📊 GitHub Analytics
+<p align="center">
+  <a href="https://github.com/rowkav09/GitHub-profile-stats">
+    <img src="https://ghstats.dev/api/card?username=manasaavarmaa&theme=tokyonight&size=compact&compact_count=6" />
+  </a>
+</p>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lavanya258&show_icons=true&theme=tokyonight" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya258&layout=compact&theme=tokyonight" />
 
