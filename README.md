@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Lavanya Pyla
 
-### AI & Machine Learning Engineer 
+### AI & Machine Learning Undergraduate
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Python+Developer;Deep+Learning+Enthusiast;Building+Real-World+AI+Solutions;Always+Learning+and+Building" />
 
@@ -137,4 +137,8 @@ Deep learning solution developed for identifying manipulated facial images for c
 </div>
 
 ---
-# Thanks for visiting my profile ..
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
