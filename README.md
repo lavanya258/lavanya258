@@ -68,16 +68,6 @@ AI-powered railway safety system capable of detecting humans, animals, and obsta
 
 ---
 
-## 🔍 Deepfake Image Detection System
-
-Deep learning solution developed for identifying manipulated facial images for cybersecurity and digital forensics applications.
-
-### Technologies
-
-`Python` `TensorFlow` `Keras` `NASNet` `LSTM`
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
